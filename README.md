@@ -6,3 +6,5 @@ Disponível para visualização em https://felippevelosomarinho.github.io/Recria
 
 ## Adapatável para aplicativos móveis
 ![insta2](https://user-images.githubusercontent.com/60450622/95667887-7db9ae80-0b42-11eb-8449-24e53801ca35.PNG)
+
+[BC552F8C.pdf](https://github.com/FelippeVelosoMarinho/Recriando-p-gina-inicial-do-Instagram/files/5362449/BC552F8C.pdf)
